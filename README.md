@@ -1,2 +1,2 @@
-# jim-1ee.github.io
-personal blog
+# Blog
+My personal blog.
